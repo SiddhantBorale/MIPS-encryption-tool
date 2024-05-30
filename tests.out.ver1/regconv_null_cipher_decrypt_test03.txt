@@ -1,0 +1,12 @@
+Expected $sp: 0x7fffeffc
+Actual $sp:   0x7fffeffc
+Expected $s:  123454321
+Actual $s0:   123454321
+Actual $s1:   123454321
+Actual $s2:   123454321
+Actual $s3:   123454321
+Actual $s4:   123454321
+Actual $s5:   123454321
+Actual $s6:   123454321
+Actual $s7:   123454321
+
